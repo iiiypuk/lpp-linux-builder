@@ -1,0 +1,4 @@
+*.vpk
+build/eboot.bin
+build/sce_sys/param.sfo
+buildsce_sysparam.sfo
